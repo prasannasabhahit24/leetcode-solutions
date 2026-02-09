@@ -22,11 +22,13 @@
 |  |
 | ------- |
 | [2549-count-distinct-numbers-on-board](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
+| [2582-pass-the-pillow](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2582-pass-the-pillow) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Simulation
 |  |
 | ------- |
 | [2549-count-distinct-numbers-on-board](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
+| [2582-pass-the-pillow](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2582-pass-the-pillow) |
 ## Two Pointers
 |  |
 | ------- |
