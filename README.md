@@ -12,12 +12,14 @@
 | [3467-transform-array-by-parity](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
+| [3719-longest-balanced-subarray-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [2549-count-distinct-numbers-on-board](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
+| [3719-longest-balanced-subarray-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
@@ -55,6 +57,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -75,4 +78,12 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
