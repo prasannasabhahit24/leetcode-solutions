@@ -25,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0326-power-of-three) |
 | [2396-strictly-palindromic-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2549-count-distinct-numbers-on-board](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
@@ -99,4 +100,8 @@
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
