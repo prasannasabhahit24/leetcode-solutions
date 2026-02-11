@@ -25,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2549-count-distinct-numbers-on-board](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2582-pass-the-pillow](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2582-pass-the-pillow) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
@@ -88,4 +89,8 @@
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
