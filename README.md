@@ -33,6 +33,7 @@
 | [0441-arranging-coins](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2549-count-distinct-numbers-on-board](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2582-pass-the-pillow](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2582-pass-the-pillow) |
@@ -130,4 +131,8 @@
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0441-arranging-coins) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
