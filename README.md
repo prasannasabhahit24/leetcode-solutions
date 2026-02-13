@@ -32,6 +32,7 @@
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -122,6 +123,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0326-power-of-three) |
 ## Stack
 |  |
@@ -148,4 +150,8 @@
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
