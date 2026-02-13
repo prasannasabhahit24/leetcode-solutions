@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [2351-first-letter-to-appear-twice](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2549-count-distinct-numbers-on-board](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3713-longest-balanced-substring-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -72,6 +73,7 @@
 ## Counting
 |  |
 | ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3467-transform-array-by-parity](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3713-longest-balanced-substring-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [2351-first-letter-to-appear-twice](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [3713-longest-balanced-substring-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Divide and Conquer
@@ -157,4 +160,5 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0231-power-of-two) |
+| [2351-first-letter-to-appear-twice](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
