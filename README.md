@@ -42,6 +42,7 @@
 | [1716-calculate-money-in-leetcode-bank](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2169-count-operations-to-obtain-zero](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2396-strictly-palindromic-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0258-add-digits) |
+| [2169-count-operations-to-obtain-zero](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2549-count-distinct-numbers-on-board](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2582-pass-the-pillow](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2582-pass-the-pillow) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
