@@ -6,6 +6,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0128-longest-consecutive-sequence](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [2351-first-letter-to-appear-twice](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2549-count-distinct-numbers-on-board](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -172,4 +174,8 @@
 | ------- |
 | [0231-power-of-two](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0231-power-of-two) |
 | [2351-first-letter-to-appear-twice](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
