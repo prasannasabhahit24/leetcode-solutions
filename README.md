@@ -42,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0326-power-of-three) |
