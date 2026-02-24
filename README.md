@@ -19,6 +19,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
+| [2678-number-of-senior-citizens](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3467-transform-array-by-parity](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
@@ -125,6 +126,7 @@
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2678-number-of-senior-citizens](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [3713-longest-balanced-substring-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Divide and Conquer
