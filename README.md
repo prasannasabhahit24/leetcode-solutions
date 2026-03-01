@@ -16,6 +16,7 @@
 | [0724-find-pivot-index](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0942-di-string-match](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0942-di-string-match) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1534-count-good-triplets](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -200,6 +201,7 @@
 | [0225-implement-stack-using-queues](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Design
 |  |
 | ------- |
@@ -238,10 +240,12 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Memoization
 |  |
 | ------- |
@@ -254,5 +258,6 @@
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0942-di-string-match) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
