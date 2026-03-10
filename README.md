@@ -133,6 +133,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0696-count-binary-substrings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0942-di-string-match](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0942-di-string-match) |
