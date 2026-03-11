@@ -248,6 +248,7 @@
 | ------- |
 | [0137-single-number-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0231-power-of-two) |
+| [1009-complement-of-base-10-integer](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [2351-first-letter-to-appear-twice](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Union-Find
 |  |
