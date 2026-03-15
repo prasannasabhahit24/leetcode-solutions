@@ -167,6 +167,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
@@ -253,6 +254,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
