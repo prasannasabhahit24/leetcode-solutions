@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -111,6 +112,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0696-count-binary-substrings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0696-count-binary-substrings) |
@@ -294,6 +296,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0942-di-string-match](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
