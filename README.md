@@ -66,6 +66,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0258-add-digits) |
@@ -221,6 +222,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0326-power-of-three) |
