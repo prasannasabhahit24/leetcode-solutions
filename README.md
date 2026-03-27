@@ -144,6 +144,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0696-count-binary-substrings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0696-count-binary-substrings) |
@@ -230,6 +231,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0682-baseball-game) |
