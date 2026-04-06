@@ -149,6 +149,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -293,6 +294,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -332,4 +334,8 @@
 | [0584-find-customer-referee](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
