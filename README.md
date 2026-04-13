@@ -28,6 +28,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -82,6 +83,7 @@
 | [1716-calculate-money-in-leetcode-bank](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2119-a-number-after-a-double-reversal](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -122,6 +124,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0942-di-string-match](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0942-di-string-match) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2396-strictly-palindromic-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [3643-flip-square-submatrix-vertically](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
@@ -302,6 +305,7 @@
 | [0152-maximum-product-subarray](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
 ## Memoization
 |  |
@@ -347,4 +351,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 <!---LeetCode Topics End-->
