@@ -211,6 +211,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -221,6 +222,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 ## Segment Tree
 |  |
 | ------- |
@@ -363,6 +365,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 ## Sliding Window
 |  |
 | ------- |
