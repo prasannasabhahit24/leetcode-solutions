@@ -210,6 +210,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -217,12 +218,14 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -369,6 +372,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Sliding Window
