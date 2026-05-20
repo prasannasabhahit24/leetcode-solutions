@@ -44,6 +44,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -72,6 +73,7 @@
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2540-minimum-common-value](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3146-permutation-difference-between-two-strings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
@@ -325,6 +327,7 @@
 | [1009-complement-of-base-10-integer](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Union-Find
 |  |
 | ------- |
