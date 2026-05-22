@@ -233,6 +233,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0951-flip-equivalent-binary-trees](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -241,6 +242,7 @@
 | [0099-recover-binary-search-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0951-flip-equivalent-binary-trees](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [1306-jump-game-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
@@ -252,6 +254,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0951-flip-equivalent-binary-trees](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Segment Tree
 |  |
