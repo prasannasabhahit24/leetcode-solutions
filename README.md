@@ -37,6 +37,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
