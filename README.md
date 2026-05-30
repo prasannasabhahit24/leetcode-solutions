@@ -388,6 +388,7 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0622-design-circular-queue) |
 ## Greedy
 |  |
