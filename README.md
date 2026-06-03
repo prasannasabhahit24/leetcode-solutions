@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0040-combination-sum-ii) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0027-remove-element](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
