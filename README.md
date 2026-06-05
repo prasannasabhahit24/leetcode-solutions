@@ -24,6 +24,7 @@
 | [0238-product-of-array-except-self](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0413-arithmetic-slices](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0413-arithmetic-slices) |
+| [0414-third-maximum-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -166,6 +167,7 @@
 | [0075-sort-colors](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0414-third-maximum-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
