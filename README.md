@@ -99,6 +99,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0258-add-digits) |
@@ -379,6 +380,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0413-arithmetic-slices](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0509-fibonacci-number) |
@@ -467,4 +469,8 @@
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
