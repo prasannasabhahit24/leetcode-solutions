@@ -52,6 +52,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
+| [2574-left-and-right-sum-differences](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -286,6 +287,7 @@
 | [0238-product-of-array-except-self](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [2485-find-the-pivot-integer](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
+| [2574-left-and-right-sum-differences](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [3719-longest-balanced-subarray-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Geometry
 |  |
