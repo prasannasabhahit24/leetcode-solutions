@@ -133,6 +133,7 @@
 | [3516-find-closest-person](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Simulation
 |  |
 | ------- |
@@ -353,6 +354,7 @@
 | ------- |
 | [1534-count-good-triplets](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -391,6 +393,7 @@
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
 |  |
 | ------- |
