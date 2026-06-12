@@ -198,6 +198,7 @@
 | [0020-valid-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0647-palindromic-substrings) |
