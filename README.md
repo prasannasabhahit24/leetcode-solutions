@@ -84,6 +84,7 @@
 | [0496-next-greater-element-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [1189-maximum-number-of-balloons](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -219,6 +221,7 @@
 | [0696-count-binary-substrings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0942-di-string-match](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0942-di-string-match) |
+| [1189-maximum-number-of-balloons](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
