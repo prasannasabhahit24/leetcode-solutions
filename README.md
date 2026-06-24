@@ -60,6 +60,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [2942-find-words-containing-character](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -393,6 +394,7 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 ## Union-Find
 |  |
 | ------- |
