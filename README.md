@@ -48,6 +48,7 @@
 | [1833-maximum-ice-cream-bars](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -241,6 +242,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2351-first-letter-to-appear-twice](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2678-number-of-senior-citizens](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
