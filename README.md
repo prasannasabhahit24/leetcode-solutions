@@ -150,6 +150,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
 |  |
 | ------- |
