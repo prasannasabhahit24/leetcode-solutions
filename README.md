@@ -81,6 +81,7 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3838-weighted-word-mapping](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -173,6 +175,7 @@
 | [3612-process-string-with-special-operations-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -194,6 +197,7 @@
 | [2396-strictly-palindromic-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -210,6 +214,7 @@
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [3467-transform-array-by-parity](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -403,6 +408,7 @@
 | [0258-add-digits](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
