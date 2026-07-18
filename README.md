@@ -192,6 +192,7 @@
 | [0647-palindromic-substrings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0696-count-binary-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0942-di-string-match](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0942-di-string-match) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -481,6 +482,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
 | [0622-design-circular-queue](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0876-middle-of-the-linked-list](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
 |  |
