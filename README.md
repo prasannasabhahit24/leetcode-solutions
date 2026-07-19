@@ -250,6 +250,7 @@
 | [0696-count-binary-substrings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0942-di-string-match](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0942-di-string-match) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -391,6 +392,7 @@
 | [0735-asteroid-collision](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3174-clear-digits](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3174-clear-digits) |
@@ -462,6 +464,7 @@
 | [0496-next-greater-element-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Dynamic Programming
@@ -506,6 +509,7 @@
 | [0045-jump-game-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0316-remove-duplicate-letters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0942-di-string-match](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0942-di-string-match) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
