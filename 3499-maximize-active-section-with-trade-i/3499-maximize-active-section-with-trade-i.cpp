@@ -1,42 +1,39 @@
 class Solution {
 public:
     int maxActiveSectionsAfterTrade(string s) {
+        int n=s.length();
 
-        vector<int> zeroBlocks;   // Stores length of each zero block
-        int totalOnes = 0;
+        int i=0;
 
-        int i = 0;
-        int n = s.size();
+        vector<int> zeroblock;
+        int totalone=0;
 
-        while (i < n) {
-
-            // Count consecutive 1's
-            if (s[i] == '1') {
-                while (i < n && s[i] == '1') {
-                    totalOnes++;
+        while(i<n){
+            if(s[i]=='1') {
+                while(i<n &&s[i]=='1'){
+                    totalone++;
                     i++;
                 }
             }
-            // Count consecutive 0's
             else {
-                int cnt = 0;
+               int cnt=0;  //cnt the no of zero
 
-                while (i < n && s[i] == '0') {
-                    cnt++;
-                    i++;
-                }
+               while(i<n && s[i]=='0'){
+                cnt++;
+                i++;
+               }
 
-                zeroBlocks.push_back(cnt);
+                 zeroblock.push_back(cnt);
             }
+          
         }
 
-        int maxMerge = 0;
+        int maxi=0;
 
-        // Find maximum sum of two adjacent zero blocks
-        for (int i = 0; i + 1 < zeroBlocks.size(); i++) {
-            maxMerge = max(maxMerge, zeroBlocks[i] + zeroBlocks[i + 1]);
+        for(int i=0;i+1<zeroblock.size();i++){
+            maxi=max(maxi,zeroblock[i]+zeroblock[i+1]);
         }
 
-        return totalOnes + maxMerge;
+        return totalone+maxi;
     }
 };
