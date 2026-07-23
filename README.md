@@ -72,6 +72,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3467-transform-array-by-parity](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3643-flip-square-submatrix-vertically](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -155,6 +156,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3492-maximum-containers-on-a-ship](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3492-maximum-containers-on-a-ship) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3516-find-closest-person](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -469,6 +471,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Union-Find
 |  |
 | ------- |
