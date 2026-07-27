@@ -28,6 +28,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0260-single-number-iii) |
+| [0300-longest-increasing-subsequence](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0413-arithmetic-slices](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -442,6 +443,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [2540-minimum-common-value](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -505,6 +507,7 @@
 | [0070-climbing-stairs](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0413-arithmetic-slices](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0509-fibonacci-number) |
