@@ -325,6 +325,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
@@ -342,6 +343,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -354,6 +356,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
@@ -607,6 +610,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
