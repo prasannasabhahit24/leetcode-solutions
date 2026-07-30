@@ -162,6 +162,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2582-pass-the-pillow](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2582-pass-the-pillow) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3099-harshad-number) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -296,6 +297,7 @@
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2942-find-words-containing-character](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3110-score-of-a-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -588,6 +590,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Matrix
 |  |
