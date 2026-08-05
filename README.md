@@ -50,6 +50,7 @@
 | [0942-di-string-match](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1004-max-consecutive-ones-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1306-jump-game-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1406-stone-game-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -122,6 +123,7 @@
 | [0904-fruit-into-baskets](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -162,6 +164,7 @@
 | [0593-valid-square](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0877-stone-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1518-water-bottles](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1518-water-bottles) |
@@ -436,6 +439,7 @@
 | [0724-find-pivot-index](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
@@ -675,6 +679,7 @@
 | [0904-fruit-into-baskets](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
