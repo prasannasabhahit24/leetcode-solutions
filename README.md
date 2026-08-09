@@ -51,6 +51,7 @@
 | [0942-di-string-match](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1004-max-consecutive-ones-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1140-stone-game-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1306-jump-game-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1406-stone-game-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -166,6 +167,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -443,6 +445,7 @@
 | [0724-find-pivot-index](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
@@ -587,6 +590,7 @@
 | [0509-fibonacci-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -741,13 +745,16 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
