@@ -87,6 +87,7 @@
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -451,6 +452,7 @@
 | [1732-find-the-highest-altitude](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [2485-find-the-pivot-integer](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -506,6 +508,7 @@
 | [0225-implement-stack-using-queues](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -554,6 +557,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -694,6 +698,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Data Stream
 |  |
 | ------- |
