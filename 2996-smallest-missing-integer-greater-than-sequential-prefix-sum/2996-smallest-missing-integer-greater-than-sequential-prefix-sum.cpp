@@ -1,15 +1,8 @@
 class Solution {
 public:
     int missingInteger(vector<int>& nums) {
-      
-        vector<bool> exists(52);
+        int pref=nums[0];
 
-        for(int i=0;i<nums.size();i++){
-            exists[nums[i]]=true;
-
-        }
-
-          int pref=nums[0];
         for(int i=1;i<nums.size();i++){
             if(nums[i]==nums[i-1]+1){
                 pref+=nums[i];
@@ -18,17 +11,14 @@ public:
                 break;
             }
         }
-        
-
-        if(pref>50){
-            return pref;
+        unordered_set<int> st;
+        for(int x:nums){
+           st.insert(x);
         }
 
-        for(int i=pref;i<=52;i++){
-            if(!exists[i]){
-                return i;
-            }
+        while(st.count(pref)){
+            pref++;
         }
-        return 0;
+        return pref;
     }
 };
