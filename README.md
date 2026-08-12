@@ -122,6 +122,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -310,6 +311,7 @@
 | [0076-minimum-window-substring](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -366,6 +368,7 @@
 | [0191-number-of-1-bits](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3719-longest-balanced-subarray-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
@@ -701,6 +704,7 @@
 | ------- |
 | [0076-minimum-window-substring](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
