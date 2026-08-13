@@ -677,6 +677,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0182-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0511-game-play-analysis-i) |
 | [0584-find-customer-referee](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0584-find-customer-referee) |
