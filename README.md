@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0027-remove-element) |
@@ -371,6 +372,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0148-sort-list) |
@@ -535,6 +537,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
