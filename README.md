@@ -106,6 +106,7 @@
 | [3683-earliest-time-to-finish-one-task](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3689-maximum-total-subarray-value-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -588,6 +589,7 @@
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Union-Find
 |  |
 | ------- |
