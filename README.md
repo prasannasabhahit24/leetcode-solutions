@@ -112,6 +112,7 @@
 | [3731-find-missing-elements](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3838-weighted-word-mapping](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -162,6 +163,7 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 ## Math
 |  |
 | ------- |
