@@ -156,6 +156,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -369,6 +370,7 @@
 | [3146-permutation-difference-between-two-strings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3174-clear-digits](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3340-check-balanced-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3340-check-balanced-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -750,6 +752,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3325-count-substrings-with-k-frequency-characters-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 ## Data Stream
 |  |
 | ------- |
