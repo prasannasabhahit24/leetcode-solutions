@@ -99,6 +99,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3467-transform-array-by-parity](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -156,6 +157,7 @@
 | [3120-count-the-number-of-special-characters-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3713-longest-balanced-substring-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3713-longest-balanced-substring-i) |
