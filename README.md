@@ -57,6 +57,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1406-stone-game-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1406-stone-game-iii) |
@@ -576,6 +577,7 @@
 | [0658-find-k-closest-elements](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2540-minimum-common-value](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2540-minimum-common-value) |
