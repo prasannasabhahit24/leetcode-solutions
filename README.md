@@ -45,6 +45,7 @@
 | [0622-design-circular-queue](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -497,6 +498,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -670,6 +672,7 @@
 | [0509-fibonacci-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -904,4 +907,12 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
