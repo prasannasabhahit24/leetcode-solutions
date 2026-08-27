@@ -393,6 +393,7 @@
 | [2185-counting-words-with-a-given-prefix](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2351-first-letter-to-appear-twice](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [2678-number-of-senior-citizens](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
