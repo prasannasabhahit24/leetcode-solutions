@@ -228,6 +228,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2169-count-operations-to-obtain-zero](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
@@ -398,6 +399,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
@@ -831,6 +833,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2831-find-the-longest-equal-subarray](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
