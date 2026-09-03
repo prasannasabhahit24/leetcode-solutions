@@ -206,6 +206,7 @@
 | [0050-powx-n](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0258-add-digits) |
@@ -474,6 +475,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0100-same-tree) |
@@ -516,6 +518,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0100-same-tree) |
@@ -704,6 +707,7 @@
 | [0062-unique-paths](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -822,6 +826,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
