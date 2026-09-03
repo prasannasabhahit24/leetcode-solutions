@@ -493,6 +493,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
@@ -512,6 +513,7 @@
 | [0565-array-nesting](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0565-array-nesting) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1306-jump-game-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
@@ -536,6 +538,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Segment Tree
@@ -979,4 +982,8 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## DP on Trees
+|  |
+| ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 <!---LeetCode Topics End-->
