@@ -161,6 +161,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0771-jewels-and-stones](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -309,6 +310,7 @@
 | [0234-palindrome-linked-list](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -395,6 +397,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0771-jewels-and-stones](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0771-jewels-and-stones) |
@@ -862,6 +865,7 @@
 | [0413-arithmetic-slices](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
