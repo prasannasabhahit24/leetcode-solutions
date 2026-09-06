@@ -44,6 +44,7 @@
 | [0414-third-maximum-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0486-predict-the-winner](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0565-array-nesting](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0565-array-nesting) |
 | [0622-design-circular-queue](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -621,6 +622,7 @@
 | [0234-palindrome-linked-list](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -724,6 +726,7 @@
 | [0042-trapping-rain-water](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
