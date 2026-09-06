@@ -93,6 +93,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -286,6 +287,7 @@
 | [1094-car-pooling](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1518-water-bottles](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2109-adding-spaces-to-a-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2169-count-operations-to-obtain-zero) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -326,6 +328,7 @@
 | [0881-boats-to-save-people](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0942-di-string-match) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2109-adding-spaces-to-a-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
@@ -429,6 +432,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2109-adding-spaces-to-a-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
