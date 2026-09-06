@@ -12,6 +12,7 @@
 | [0039-combination-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -303,6 +304,7 @@
 | [0015-3sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -612,6 +614,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0173-binary-search-tree-iterator](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
@@ -716,6 +719,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -728,6 +732,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0070-climbing-stairs) |
