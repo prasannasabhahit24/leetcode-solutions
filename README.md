@@ -178,6 +178,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1400-construct-k-palindrome-strings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -376,6 +377,7 @@
 | [0347-top-k-frequent-elements](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
+| [1400-construct-k-palindrome-strings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2029-stone-game-ix](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2029-stone-game-ix) |
@@ -417,6 +419,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1208-get-equal-substrings-within-budget](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1400-construct-k-palindrome-strings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -810,6 +813,7 @@
 | [0942-di-string-match](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1400-construct-k-palindrome-strings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1400-construct-k-palindrome-strings) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
