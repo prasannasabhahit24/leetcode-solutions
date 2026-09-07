@@ -105,6 +105,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2498-frog-jump-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2498-frog-jump-ii) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2540-minimum-common-value](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2540-minimum-common-value) |
@@ -681,6 +682,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2498-frog-jump-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2498-frog-jump-ii) |
 | [2540-minimum-common-value](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2831-find-the-longest-equal-subarray](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -826,6 +828,7 @@
 | [2029-stone-game-ix](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+| [2498-frog-jump-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2498-frog-jump-ii) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
