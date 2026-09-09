@@ -112,6 +112,7 @@
 | [2540-minimum-common-value](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2574-left-and-right-sum-differences](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
@@ -194,6 +195,7 @@
 | [2537-count-the-number-of-good-subarrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2540-minimum-common-value](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2831-find-the-longest-equal-subarray](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -602,6 +604,7 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2485-find-the-pivot-integer](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -727,6 +730,7 @@
 | [1009-complement-of-base-10-integer](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
