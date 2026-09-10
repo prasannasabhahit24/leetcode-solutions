@@ -532,6 +532,7 @@
 | [0979-distribute-coins-in-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -552,6 +553,7 @@
 | [0979-distribute-coins-in-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1306-jump-game-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1306-jump-game-iii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -577,6 +579,7 @@
 | [0979-distribute-coins-in-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0979-distribute-coins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Segment Tree
 |  |
 | ------- |
