@@ -77,6 +77,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1534-count-good-triplets](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1534-count-good-triplets) |
@@ -696,6 +697,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2498-frog-jump-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2498-frog-jump-ii) |
