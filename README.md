@@ -244,6 +244,7 @@
 | [0593-valid-square](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0836-rectangle-overlap](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -625,6 +626,7 @@
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0593-valid-square) |
+| [0836-rectangle-overlap](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Brainteaser
 |  |
