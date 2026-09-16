@@ -256,6 +256,7 @@
 | [1513-number-of-substrings-with-only-1s](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1518-water-bottles](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1518-water-bottles) |
 | [1686-stone-game-vi](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1686-stone-game-vi) |
+| [1688-count-of-matches-in-tournament](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -306,6 +307,7 @@
 | [1094-car-pooling](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1441-build-an-array-with-stack-operations](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1518-water-bottles](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1518-water-bottles) |
+| [1688-count-of-matches-in-tournament](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2109-adding-spaces-to-a-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
