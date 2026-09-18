@@ -466,6 +466,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2109-adding-spaces-to-a-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -678,6 +679,7 @@
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [3174-clear-digits](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Design
 |  |
@@ -875,6 +877,7 @@
 | [1927-sum-game](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2498-frog-jump-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2498-frog-jump-ii) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
@@ -1116,4 +1119,8 @@
 |  |
 | ------- |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
