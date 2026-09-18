@@ -93,6 +93,7 @@
 | [1686-stone-game-vi](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1686-stone-game-vi) |
 | [1732-find-the-highest-altitude](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1833-maximum-ice-cream-bars](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -352,6 +353,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0942-di-string-match) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -672,6 +674,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [3174-clear-digits](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Design
 |  |
@@ -714,6 +717,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -782,6 +786,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1104,4 +1109,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 <!---LeetCode Topics End-->
