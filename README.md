@@ -80,6 +80,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -359,6 +360,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0942-di-string-match) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
@@ -387,6 +389,7 @@
 | [1094-car-pooling](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1686-stone-game-vi](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1686-stone-game-vi) |
 | [1833-maximum-ice-cream-bars](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
