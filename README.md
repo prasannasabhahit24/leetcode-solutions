@@ -112,6 +112,7 @@
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2187-minimum-time-to-complete-trips](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
@@ -745,6 +746,7 @@
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2187-minimum-time-to-complete-trips](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2498-frog-jump-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2498-frog-jump-ii) |
