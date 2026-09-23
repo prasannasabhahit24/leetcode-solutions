@@ -784,6 +784,7 @@
 | [0260-single-number-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [1009-complement-of-base-10-integer](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1009-complement-of-base-10-integer) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -832,6 +833,7 @@
 | [0198-house-robber](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0486-predict-the-winner) |
@@ -858,6 +860,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
@@ -882,6 +885,7 @@
 | [0045-jump-game-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0397-integer-replacement](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0763-partition-labels](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0881-boats-to-save-people) |
