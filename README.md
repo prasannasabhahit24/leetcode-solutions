@@ -246,6 +246,7 @@
 | [0050-powx-n](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0231-power-of-two) |
@@ -786,6 +787,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0191-number-of-1-bits) |
@@ -963,6 +965,7 @@
 | [0040-combination-sum-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Binary Search Tree
