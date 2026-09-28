@@ -469,6 +469,7 @@
 | [1433-check-if-a-string-can-break-another-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
@@ -706,6 +707,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -1169,5 +1171,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
