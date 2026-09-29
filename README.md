@@ -450,6 +450,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -695,6 +696,7 @@
 | [0225-implement-stack-using-queues](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -820,6 +822,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -901,6 +904,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0397-integer-replacement](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0763-partition-labels](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0881-boats-to-save-people) |
