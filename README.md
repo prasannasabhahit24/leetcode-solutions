@@ -442,6 +442,7 @@
 | [0013-roman-to-integer](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0076-minimum-window-substring) |
@@ -695,6 +696,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0173-binary-search-tree-iterator](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
@@ -842,6 +844,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0062-unique-paths) |
@@ -1185,6 +1188,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
