@@ -966,6 +966,7 @@
 | [1075-project-employees-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+| [1873-calculate-special-bonus](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1873-calculate-special-bonus) |
 | [3436-find-valid-emails](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3436-find-valid-emails) |
 ## Backtracking
 |  |
