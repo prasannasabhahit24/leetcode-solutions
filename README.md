@@ -131,6 +131,7 @@
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+| [2826-sorting-three-groups](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2826-sorting-three-groups) |
 | [2831-find-the-longest-equal-subarray](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [2942-find-words-containing-character](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -774,6 +775,7 @@
 | [2498-frog-jump-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2498-frog-jump-ii) |
 | [2540-minimum-common-value](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2540-minimum-common-value) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
+| [2826-sorting-three-groups](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2826-sorting-three-groups) |
 | [2831-find-the-longest-equal-subarray](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2831-find-the-longest-equal-subarray) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Number Theory
@@ -880,6 +882,7 @@
 | [1872-stone-game-viii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2380-time-needed-to-rearrange-a-binary-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
+| [2826-sorting-three-groups](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2826-sorting-three-groups) |
 | [2957-remove-adjacent-almost-equal-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2957-remove-adjacent-almost-equal-characters) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Memoization
