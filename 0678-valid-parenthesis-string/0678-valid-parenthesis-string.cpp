@@ -19,7 +19,7 @@ public:
             if(maxOpen < 0){
                 return false;
             }
-            minOpen=max(minOpen,0);  //mini cant be a zero
+            minOpen=max(minOpen,0);  
         }
         return (minOpen==0);
     }
