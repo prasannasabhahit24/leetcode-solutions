@@ -465,6 +465,7 @@
 | [0696-count-binary-substrings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0856-score-of-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0942-di-string-match](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -714,6 +715,7 @@
 | [0682-baseball-game](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -1203,6 +1205,7 @@
 | [0022-generate-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
