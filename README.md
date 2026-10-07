@@ -604,6 +604,7 @@
 | [0365-water-and-jug-problem](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0513-find-bottom-left-tree-value](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0565-array-nesting](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0565-array-nesting) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0951-flip-equivalent-binary-trees) |
@@ -837,6 +838,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Monotonic Stack
 |  |
@@ -1074,6 +1076,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0513-find-bottom-left-tree-value](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0547-number-of-provinces](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1306-jump-game-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1306-jump-game-iii) |
 ## Iterator
@@ -1102,6 +1105,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Bucket Sort
 |  |
