@@ -358,6 +358,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
@@ -393,6 +394,7 @@
 | [0169-majority-element](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -550,6 +552,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -744,6 +747,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0295-find-median-from-data-stream](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0622-design-circular-queue](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -1067,6 +1071,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
