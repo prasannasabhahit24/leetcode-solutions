@@ -131,6 +131,7 @@
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2826-sorting-three-groups](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2826-sorting-three-groups) |
 | [2831-find-the-longest-equal-subarray](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2831-find-the-longest-equal-subarray) |
@@ -820,6 +821,7 @@
 |  |
 | ------- |
 | [1534-count-good-triplets](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1534-count-good-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
