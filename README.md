@@ -67,6 +67,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0942-di-string-match](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0942-di-string-match) |
+| [0986-interval-list-intersections](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -381,6 +382,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0942-di-string-match) |
+| [0986-interval-list-intersections](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -1263,4 +1265,8 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
