@@ -275,6 +275,7 @@
 | [0836-rectangle-overlap](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1248-count-number-of-nice-subarrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -383,6 +384,7 @@
 | [0881-boats-to-save-people](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0986-interval-list-intersections](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0986-interval-list-intersections) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -804,6 +806,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1208-get-equal-substrings-within-budget](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1208-get-equal-substrings-within-budget) |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -1269,4 +1272,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0986-interval-list-intersections) |
+## Interactive
+|  |
+| ------- |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1237-find-positive-integer-solution-for-a-given-equation) |
 <!---LeetCode Topics End-->
