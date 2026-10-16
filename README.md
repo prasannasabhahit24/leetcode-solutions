@@ -69,6 +69,7 @@
 | [0942-di-string-match](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0986-interval-list-intersections](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0986-interval-list-intersections) |
 | [0992-subarrays-with-k-different-integers](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -1006,6 +1007,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0733-flood-fill](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -1122,6 +1124,7 @@
 | [0547-number-of-provinces](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1306-jump-game-iii) |
 ## Iterator
