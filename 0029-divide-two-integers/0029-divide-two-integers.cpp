@@ -32,7 +32,7 @@ public:
          if(ans > INT_MAX && !sign){
             return INT_MIN;
         }
-        return sign?ans:(-1*ans);
+        return sign?ans:-ans;
         
     }
 };
