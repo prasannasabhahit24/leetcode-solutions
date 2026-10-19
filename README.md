@@ -113,6 +113,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2109-adding-spaces-to-a-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -429,6 +430,7 @@
 | [1686-stone-game-vi](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1686-stone-game-vi) |
 | [1833-maximum-ice-cream-bars](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -818,6 +820,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
