@@ -139,6 +139,7 @@
 | [2549-count-distinct-numbers-on-board](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2549-count-distinct-numbers-on-board) |
 | [2574-left-and-right-sum-differences](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
+| [2643-row-with-maximum-ones](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2678-number-of-senior-citizens) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -1028,6 +1029,7 @@
 | [1020-number-of-enclaves](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2643-row-with-maximum-ones) |
 | [3643-flip-square-submatrix-vertically](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## String Matching
 |  |
