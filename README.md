@@ -35,6 +35,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -274,6 +275,7 @@
 | [0089-gray-code](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0326-power-of-three) |
@@ -853,6 +855,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2413-smallest-even-multiple) |
@@ -861,6 +864,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -1320,4 +1324,16 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
