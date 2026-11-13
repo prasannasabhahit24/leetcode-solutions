@@ -35,6 +35,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -651,6 +652,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
@@ -904,6 +906,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -1041,6 +1044,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0994-rotting-oranges) |
@@ -1157,6 +1161,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0365-water-and-jug-problem) |
 | [0513-find-bottom-left-tree-value](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0513-find-bottom-left-tree-value) |
