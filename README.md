@@ -164,6 +164,7 @@
 | [3208-alternating-groups-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3208-alternating-groups-ii) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3467-transform-array-by-parity](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -731,6 +732,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3719-longest-balanced-subarray-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -1146,6 +1148,7 @@
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3208-alternating-groups-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3208-alternating-groups-ii) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Data Stream
 |  |
 | ------- |
