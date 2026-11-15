@@ -102,6 +102,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1534-count-good-triplets](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1534-count-good-triplets) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -302,6 +303,7 @@
 | [1510-stone-game-iv](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1518-water-bottles](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1518-water-bottles) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1686-stone-game-vi](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1686-stone-game-vi) |
 | [1688-count-of-matches-in-tournament](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -723,6 +725,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1872-stone-game-viii) |
@@ -965,6 +968,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1872-stone-game-viii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1872-stone-game-viii) |
