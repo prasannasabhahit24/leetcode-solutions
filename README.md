@@ -315,6 +315,7 @@
 | [1812-determine-color-of-a-chessboard-square](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1872-stone-game-viii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1872-stone-game-viii) |
+| [1922-count-good-numbers](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/2029-stone-game-ix) |
@@ -773,6 +774,7 @@
 | [0486-predict-the-winner](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1922-count-good-numbers](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
