@@ -35,6 +35,7 @@
 | [0162-find-peak-element](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0204-count-primes) |
@@ -281,6 +282,7 @@
 | [0089-gray-code](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0258-add-digits) |
@@ -395,6 +397,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/prasannasabhahit24/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
